@@ -1,0 +1,30 @@
+{
+  "name": "client",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "rsbuild dev",
+    "dev": "rsbuild dev",
+    "build": "rsbuild build",
+    "preview": "rsbuild preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "axios": "^1.7.0",
+    "lucide-react": "^0.460.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-router-dom": "^7.1.0"
+  },
+  "devDependencies": {
+    "@rsbuild/core": "^1.1.0",
+    "@rsbuild/plugin-react": "^1.1.0",
+    "@tailwindcss/postcss": "^4.2.2",
+    "autoprefixer": "^10.4.0",
+    "eslint": "^9.0.0",
+    "globals": "^17.0.0",
+    "postcss": "^8.4.0",
+    "tailwindcss": "^4.2.2"
+  }
+}

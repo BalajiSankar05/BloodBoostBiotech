@@ -17,7 +17,7 @@ const Footer = () => {
                 <span className="font-black text-xl tracking-tight text-blood-600 leading-none">
                   BLOOD<span className="text-gray-900">BOOST</span>
                 </span>
-                <span className="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase">Biotect</span>
+                <span className="text-[10px] font-bold tracking-[0.2em] text-gray-400 uppercase">Biotech</span>
               </div>
             </Link>
             <p className="text-gray-500 font-medium leading-relaxed tracking-tight">
